@@ -125,7 +125,7 @@ def save_json(name: str, obj) -> None:
 
 
 def load_classes() -> list[str]:
-    # top 10 services of week 18 by flow count (Aya, A1)
+    # top 10 services of week 18 by flow count
     # label numbers come from config/label_encoder.json, not from this list
     data = load_json("classes.json")
     if isinstance(data, dict):

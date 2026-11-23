@@ -1,5 +1,5 @@
 """
-preprocess.py - converts each raw CESNET week into one parquet file (L2).
+preprocess.py - converts each raw CESNET week into one parquet file
 
 Usage:
     python preprocess.py            # all chain 1 weeks, then chain 2
