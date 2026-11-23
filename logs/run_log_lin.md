@@ -1,0 +1,29 @@
+- 2026-11-03 01:01 (Lin): preprocessed week 18: {'week': 18, 'rows_raw': 14561533, 'rows_saved': 4532199, 'our10_flows': 4532199, 'our10_smallest_class': 353426, 'our10_present': 10, 'mb': 82.2, 'minutes': 1.5}
+- 2026-11-03 01:03 (Lin): preprocessed week 22: {'week': 22, 'rows_raw': 11836903, 'rows_saved': 11836903, 'our10_flows': 3543074, 'our10_smallest_class': 73860, 'our10_present': 10, 'mb': 197.4, 'minutes': 1.3}
+- 2026-11-03 01:04 (Lin): preprocessed week 23: {'week': 23, 'rows_raw': 11383455, 'rows_saved': 3230929, 'our10_flows': 3230929, 'our10_smallest_class': 73966, 'our10_present': 10, 'mb': 58.6, 'minutes': 1.1}
+- 2026-11-03 01:05 (Lin): preprocessed week 24: {'week': 24, 'rows_raw': 11422654, 'rows_saved': 3179219, 'our10_flows': 3179219, 'our10_smallest_class': 117678, 'our10_present': 10, 'mb': 57.7, 'minutes': 1.1}
+- 2026-11-03 01:06 (Lin): preprocessed week 25: {'week': 25, 'rows_raw': 11691527, 'rows_saved': 3398815, 'our10_flows': 3398815, 'our10_smallest_class': 177076, 'our10_present': 10, 'mb': 62.2, 'minutes': 1.2}
+- 2026-11-03 01:07 (Lin): preprocessed week 26: {'week': 26, 'rows_raw': 9027876, 'rows_saved': 2481248, 'our10_flows': 2481248, 'our10_smallest_class': 132523, 'our10_present': 10, 'mb': 46.0, 'minutes': 0.9}
+- 2026-11-03 01:07 (Lin): preprocessed week 27: {'week': 27, 'rows_raw': 6583729, 'rows_saved': 1736891, 'our10_flows': 1736891, 'our10_smallest_class': 87264, 'our10_present': 10, 'mb': 32.1, 'minutes': 0.7}
+- 2026-11-03 01:08 (Lin): preprocessed week 28: {'week': 28, 'rows_raw': 7628305, 'rows_saved': 1842344, 'our10_flows': 1842344, 'our10_smallest_class': 37841, 'our10_present': 10, 'mb': 34.7, 'minutes': 0.8}
+- 2026-11-03 01:09 (Lin): preprocessed week 29: {'week': 29, 'rows_raw': 7076384, 'rows_saved': 1698620, 'our10_flows': 1698620, 'our10_smallest_class': 36689, 'our10_present': 10, 'mb': 32.2, 'minutes': 0.7}
+- 2026-11-03 01:10 (Lin): preprocessed week 30: {'week': 30, 'rows_raw': 7048590, 'rows_saved': 1649003, 'our10_flows': 1649003, 'our10_smallest_class': 42781, 'our10_present': 10, 'mb': 31.3, 'minutes': 0.7}
+- 2026-11-03 01:11 (Lin): preprocessed week 17: {'week': 17, 'rows_raw': 14275644, 'rows_saved': 14275644, 'our10_flows': 4378568, 'our10_smallest_class': 272267, 'our10_present': 10, 'mb': 239.4, 'minutes': 1.6}
+- 2026-11-03 01:12 (Lin): preprocessed week 36: {'week': 36, 'rows_raw': 9255761, 'rows_saved': 2525334, 'our10_flows': 2525334, 'our10_smallest_class': 144094, 'our10_present': 10, 'mb': 47.6, 'minutes': 1.0}
+- 2026-11-03 01:13 (Lin): preprocessed week 40: {'week': 40, 'rows_raw': 10313266, 'rows_saved': 10313266, 'our10_flows': 2722481, 'our10_smallest_class': 134740, 'our10_present': 10, 'mb': 179.9, 'minutes': 1.2}
+- 2026-11-03 01:15 (Lin): preprocessed week 41: {'week': 41, 'rows_raw': 10694313, 'rows_saved': 2915380, 'our10_flows': 2915380, 'our10_smallest_class': 143696, 'our10_present': 10, 'mb': 54.7, 'minutes': 1.1}
+- 2026-11-03 01:16 (Lin): preprocessed week 42: {'week': 42, 'rows_raw': 10782915, 'rows_saved': 2884674, 'our10_flows': 2884674, 'our10_smallest_class': 147761, 'our10_present': 10, 'mb': 54.0, 'minutes': 1.2}
+- 2026-11-03 01:17 (Lin): preprocessed week 43: {'week': 43, 'rows_raw': 8736474, 'rows_saved': 2259723, 'our10_flows': 2259723, 'our10_smallest_class': 118111, 'our10_present': 10, 'mb': 42.5, 'minutes': 0.9}
+- 2026-11-04 10:08 (Lin): preprocessed week 44: {'week': 44, 'rows_raw': 10394885, 'rows_saved': 2510007, 'our10_flows': 2510007, 'our10_smallest_class': 100408, 'our10_present': 10, 'mb': 47.5, 'minutes': 1.0}
+- 2026-11-04 10:09 (Lin): preprocessed week 45: {'week': 45, 'rows_raw': 11070262, 'rows_saved': 2900128, 'our10_flows': 2900128, 'our10_smallest_class': 146737, 'our10_present': 10, 'mb': 54.4, 'minutes': 1.1}
+- 2026-11-04 10:10 (Lin): preprocessed week 46: {'week': 46, 'rows_raw': 9181997, 'rows_saved': 2294856, 'our10_flows': 2294856, 'our10_smallest_class': 115511, 'our10_present': 10, 'mb': 43.0, 'minutes': 0.9}
+- 2026-11-04 10:11 (Lin): preprocessed week 47: {'week': 47, 'rows_raw': 11098707, 'rows_saved': 2922996, 'our10_flows': 2922996, 'our10_smallest_class': 149563, 'our10_present': 10, 'mb': 54.8, 'minutes': 1.1}
+- 2026-11-04 10:12 (Lin): preprocessed week 48: {'week': 48, 'rows_raw': 10936789, 'rows_saved': 2875137, 'our10_flows': 2875137, 'our10_smallest_class': 160024, 'our10_present': 10, 'mb': 54.0, 'minutes': 1.1}
+- 2026-11-04 10:13 (Lin): preprocessed week 35: {'week': 35, 'rows_raw': 7877803, 'rows_saved': 7877803, 'our10_flows': 1912225, 'our10_smallest_class': 48359, 'our10_present': 10, 'mb': 138.3, 'minutes': 0.9}
+- 2026-11-05 00:44 (Lin): L4: made chain-1 budget/older/strat samples (seeds [42, 7, 123, 11, 2026], budgets [2000, 10000, 50000, 250000]); yield table c1_label_yield.csv
+- 2026-11-05 00:44 (Lin): L4: made chain-2 budget/older/strat samples (seeds [42, 7, 123, 11, 2026], budgets [2000, 10000, 50000, 250000]); yield table c2_label_yield.csv
+- 2026-11-05 02:00 (Lin): run_grid chain 1 plan main finished
+- 2026-11-06 04:35 (Lin): run_grid chain 1 plan main finished
+- 2026-11-07 10:19 (Lin): run_grid chain 1 plan rounds finished
+- 2026-11-11 01:12 (Lin): run_grid chain 1 plan capacity finished
+- 2026-11-11 04:08 (Lin): bootstrap_bytes chain 1: B=1000, 102 models
