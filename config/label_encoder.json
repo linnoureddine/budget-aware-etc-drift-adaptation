@@ -1,0 +1,27 @@
+{
+  "note": "class id = position in classes.json classes_ranked. Replaces the A1 alphabetical encoding on Nov 3, before any model or sample was made.",
+  "classes": [
+    "google-ads",
+    "office365",
+    "google-www",
+    "youtube",
+    "tiktok",
+    "snapchat",
+    "teams",
+    "microsoft-update",
+    "facebook-graph",
+    "spotify"
+  ],
+  "mapping": {
+    "google-ads": 0,
+    "office365": 1,
+    "google-www": 2,
+    "youtube": 3,
+    "tiktok": 4,
+    "snapchat": 5,
+    "teams": 6,
+    "microsoft-update": 7,
+    "facebook-graph": 8,
+    "spotify": 9
+  }
+}

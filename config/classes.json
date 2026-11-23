@@ -1,0 +1,31 @@
+{
+  "source": "WEEK-2022-18 (2022-05-02 to 2022-05-08), daily stats files verified against flow files",
+  "rule": "top 10 services by total flow count in training week 18 only; frozen for both chains",
+  "classes_ranked": [
+    "google-ads",
+    "office365",
+    "google-www",
+    "youtube",
+    "tiktok",
+    "snapchat",
+    "teams",
+    "microsoft-update",
+    "facebook-graph",
+    "spotify"
+  ],
+  "week18_counts": {
+    "google-ads": 857263,
+    "office365": 479580,
+    "google-www": 442811,
+    "youtube": 434689,
+    "tiktok": 407311,
+    "snapchat": 401705,
+    "teams": 393552,
+    "microsoft-update": 383336,
+    "facebook-graph": 378526,
+    "spotify": 353426
+  },
+  "share_of_week18_flows": 0.3112,
+  "gap_10th_11th": 21999,
+  "created": "2026-11-01"
+}

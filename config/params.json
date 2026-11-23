@@ -1,0 +1,25 @@
+{
+  "lgb": {
+    "objective": "multiclass",
+    "num_class": 10,
+    "learning_rate": 0.1,
+    "num_leaves": 64,
+    "min_data_in_leaf": 20,
+    "max_bin": 255,
+    "feature_fraction": 1.0,
+    "bagging_fraction": 1.0,
+    "lambda_l2": 0.0,
+    "deterministic": true,
+    "force_row_wise": true,
+    "num_threads": 4,
+    "verbosity": -1
+  },
+  "rounds": {
+    "base": 100,
+    "light_extra": 20,
+    "full": 100,
+    "full120": 120
+  },
+  "S": 1000000,
+  "S_rule": "smallest training size whose validation macro-F1 is within 0.005 of the largest size; week 18, 90/10 split seed 0 (results/learning_curve.csv)"
+}
