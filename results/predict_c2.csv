@@ -1,0 +1,11 @@
+chain,strategy,run_id,n_trees,model_kb,test_flows,median_s,min_s,max_s,flows_per_s,us_per_flow,threads,machine,versions
+2,KEEP,c2_main_KEEP_B0_none_s0,100,6861.5,500000,15.187,15.061,15.278,32922,30.37,4,Aya,lightgbm=4.7.0;numpy=2.4.6;sklearn=1.9.1
+2,REFIT,c2_main_REFIT_B50000_random_s42,100,6862.5,500000,15.273,15.141,15.351,32738,30.55,4,Aya,lightgbm=4.7.0;numpy=2.4.6;sklearn=1.9.1
+2,FULL,c2_main_FULL_B50000_random_s42,100,6861.9,500000,15.227,15.073,15.267,32835,30.45,4,Aya,lightgbm=4.7.0;numpy=2.4.6;sklearn=1.9.1
+2,FULL_W,c2_main_FULL_W_B50000_random_s42,100,6854.4,500000,14.948,14.721,15.087,33449,29.9,4,Aya,lightgbm=4.7.0;numpy=2.4.6;sklearn=1.9.1
+2,FULL120,c2_main_FULL120_B50000_random_s42,120,8223.4,500000,18.653,18.566,18.895,26805,37.31,4,Aya,lightgbm=4.7.0;numpy=2.4.6;sklearn=1.9.1
+2,FULL_W120,c2_capacity_FULL_W120_B50000_random_s42,120,8219.0,500000,18.444,18.127,18.533,27109,36.89,4,Aya,lightgbm=4.7.0;numpy=2.4.6;sklearn=1.9.1
+2,FULL_ALL,c2_main_FULL_ALL_B0_all_s0,100,6936.3,500000,15.719,15.516,15.822,31808,31.44,4,Aya,lightgbm=4.7.0;numpy=2.4.6;sklearn=1.9.1
+2,LIGHT_R10,c2_rounds_LIGHT_R10_B50000_random_s42,110,7527.1,500000,17.54,17.423,18.041,28507,35.08,4,Aya,lightgbm=4.7.0;numpy=2.4.6;sklearn=1.9.1
+2,LIGHT,c2_main_LIGHT_B50000_random_s42,120,8195.4,500000,19.858,19.677,20.108,25179,39.72,4,Aya,lightgbm=4.7.0;numpy=2.4.6;sklearn=1.9.1
+2,LIGHT_R50,c2_rounds_LIGHT_R50_B50000_random_s42,150,10219.1,500000,26.513,26.433,27.043,18858,53.03,4,Aya,lightgbm=4.7.0;numpy=2.4.6;sklearn=1.9.1

@@ -1,0 +1,11 @@
+chain,strategy,run_id,n_trees,model_kb,test_flows,median_s,min_s,max_s,flows_per_s,us_per_flow,threads,machine,versions
+1,KEEP,c1_main_KEEP_B0_none_s0,100,6869.7,500000,18.453,15.794,19.445,27095,36.91,4,DESKTOP-R69I3R3,lightgbm=4.7.0;numpy=2.4.6;sklearn=1.9.1
+1,REFIT,c1_main_REFIT_B50000_random_s42,100,6870.5,500000,17.72,17.207,20.448,28216,35.44,4,DESKTOP-R69I3R3,lightgbm=4.7.0;numpy=2.4.6;sklearn=1.9.1
+1,FULL,c1_main_FULL_B50000_random_s42,100,6870.7,500000,18.055,17.319,19.054,27694,36.11,4,DESKTOP-R69I3R3,lightgbm=4.7.0;numpy=2.4.6;sklearn=1.9.1
+1,FULL_W,c1_main_FULL_W_B50000_random_s42,100,6856.7,500000,17.342,17.148,18.877,28832,34.68,4,DESKTOP-R69I3R3,lightgbm=4.7.0;numpy=2.4.6;sklearn=1.9.1
+1,FULL120,c1_main_FULL120_B50000_random_s42,120,8233.7,500000,20.361,20.145,21.325,24556,40.72,4,DESKTOP-R69I3R3,lightgbm=4.7.0;numpy=2.4.6;sklearn=1.9.1
+1,FULL_ALL,c1_main_FULL_ALL_B0_all_s0,100,6947.9,500000,17.649,17.473,18.035,28330,35.3,4,DESKTOP-R69I3R3,lightgbm=4.7.0;numpy=2.4.6;sklearn=1.9.1
+1,LIGHT_R10,c1_rounds_LIGHT_R10_B50000_random_s42,110,7536.4,500000,19.444,19.354,19.972,25715,38.89,4,DESKTOP-R69I3R3,lightgbm=4.7.0;numpy=2.4.6;sklearn=1.9.1
+1,LIGHT,c1_main_LIGHT_B50000_random_s42,120,8206.1,500000,21.851,20.982,22.856,22882,43.7,4,DESKTOP-R69I3R3,lightgbm=4.7.0;numpy=2.4.6;sklearn=1.9.1
+1,LIGHT_R50,c1_rounds_LIGHT_R50_B50000_random_s42,150,10230.6,500000,27.737,26.765,29.648,18027,55.47,4,DESKTOP-R69I3R3,lightgbm=4.7.0;numpy=2.4.6;sklearn=1.9.1
+1,FULL_W120,c1_capacity_FULL_W120_B50000_random_s42,120,8221.5,500000,20.097,19.729,20.266,24879,40.19,4,DESKTOP-R69I3R3,lightgbm=4.7.0;numpy=2.4.6;sklearn=1.9.1

@@ -1,0 +1,9 @@
+{
+  "machine": "DESKTOP-R69I3R3",
+  "cpu": "Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",
+  "physical_cores": 4,
+  "logical_cores": 8,
+  "ram_gb": 15.7,
+  "os": "Windows-10-10.0.26300-SP0",
+  "versions": "lightgbm=4.7.0;numpy=2.4.6;sklearn=1.9.1"
+}
