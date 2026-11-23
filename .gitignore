@@ -1,0 +1,8 @@
+data/
+*.parquet
+*.part
+models/
+results/wrong/
+*.npy
+__pycache__/
+.ipynb_checkpoints/
