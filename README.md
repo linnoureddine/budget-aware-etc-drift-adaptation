@@ -54,3 +54,7 @@ Timing and prediction runs should be done with other programs closed.
 
 - Library versions are pinned in `requirements.txt`; results were identical on both laptops.
 - FULL_W120 was added after the first results, to compare LIGHT with a full retrain of the same size.
+
+## License
+
+MIT, see `LICENSE`.
