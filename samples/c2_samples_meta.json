@@ -1,0 +1,22 @@
+{
+  "chain": 2,
+  "pool_week": 40,
+  "older_week": 35,
+  "seeds": [
+    42,
+    7,
+    123,
+    11,
+    2026
+  ],
+  "budgets": [
+    2000,
+    10000,
+    50000,
+    250000
+  ],
+  "pool_rows": 10313266,
+  "older_rows": 7877803,
+  "rng": "np.random.default_rng([seed, chain, code]), code budget=0 older=1 strat=2",
+  "index_convention": "row positions in week_XX.parquet (= load_week(week, ten_classes_only=False) order), sorted int64"
+}
