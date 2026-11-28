@@ -32,7 +32,7 @@ Run from `code/`, in this order:
 
 1. `python download_weeks.py`: download the weeks above
 2. `python preprocess.py`: one parquet file per week
-3. Notebooks `01` to `05` in `notebooks/`: class selection, learning curve (S = 1M), training and test samples
+3. Notebooks `01`, `02`, `03` and `05` in `notebooks/`: class selection, learning curve (S = 1M), training and test samples
 4. `python make_samples_l4.py`: label budget samples and the two control samples
 5. `python run_grid.py <chain>`: main grid, then `--plan rounds`, `--plan capacity`, `--plan timing`, `--plan predict`
 6. `python bootstrap_bytes.py <chain>` and `python bytes_breakdown.py <chain>`: traffic metrics with confidence intervals
@@ -47,12 +47,12 @@ Timing and prediction runs should be done with other programs closed.
 - `config/`: features, classes, label encoder and LightGBM settings (fixed before running)
 - `samples/`: label yield tables and sample metadata (the `.npy` index files are not included; they are rebuilt from the fixed seeds)
 - `results/`: one row per model and test week (`results_c1/c2.csv`), timing, prediction speed, bootstrap results
-- `figures/`: figures and tables used in the paper
+- `figures/`: figures and tables used in the paper (both chains). `table_cost.tex` is the edited version printed in the paper; re-running `paper_figures.py` overwrites it with the raw version
 - `logs/`: run logs from both laptops
 
 ## Notes
 
-- Library versions are pinned in `requirements.txt`; results were identical on both laptops.
+- Main library versions are pinned in `requirements.txt` (LightGBM 4.7.0, NumPy 2.4.6, scikit-learn 1.9.1, as recorded in `results/machine_*.json`); results were identical on both laptops.
 - FULL_W120 was added after the first results, to compare LIGHT with a full retrain of the same size.
 
 ## License

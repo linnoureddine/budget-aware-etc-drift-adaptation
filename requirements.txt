@@ -1,8 +1,10 @@
+lightgbm==4.7.0
 matplotlib==3.10.6
 matplotlib-inline==0.1.7
-numpy==2.3.3
+numpy==2.4.6
 pandas==2.3.3
 psutil==7.1.0
+pyarrow
 remotezip==0.12.6
 scikit-learn==1.9.1
 scipy==1.18.1
